@@ -1,0 +1,1 @@
+run `npm create sanity@latest init --env` to get started
